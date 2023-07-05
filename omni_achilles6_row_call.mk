@@ -31,8 +31,8 @@ $(call inherit-product, vendor/omni/config/gsm.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := achilles6_row_call
-PRODUCT_NAME := omni_achilles6_row_call
+PRODUCT_NAME := twrp_achilles6_row_call
 PRODUCT_BRAND := Lenovo
-PRODUCT_MODEL := Lenovo
-PRODUCT_MANUFACTURER := lenovo
-PRODUCT_RELEASE_NAME := Lenovo Lenovo
+PRODUCT_MODEL := Lenovo TB-X606V
+PRODUCT_MANUFACTURER := Lenovo
+PRODUCT_RELEASE_NAME := Lenovo Tab M10 FHD Plus
