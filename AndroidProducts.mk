@@ -17,4 +17,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-     $(LOCAL_DIR)/omni_achilles6_row_call.mk
+     $(LOCAL_DIR)/twrp_achilles6_row_call.mk
+     
+COMMON_LUNCH_CHOICES := \
+    twrp_achilles6_row_call-userdebug \
+    twrp_achilles6_row_call-user \
+    twrp_achilles6_row_call-eng
